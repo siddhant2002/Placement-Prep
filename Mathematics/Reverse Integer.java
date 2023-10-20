@@ -8,7 +8,7 @@ class Solution {
         while(x!=0)
         {
             int val=x%10;
-            int newval=
+            int newval=;
             rev=rev*10+(x%10);
             x/=10;
         }
