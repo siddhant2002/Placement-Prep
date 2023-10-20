@@ -1,3 +1,4 @@
+package Placement-Prep.Mathematics;
 public class Solution {
     public static int calcGCD(int n, int m){
         while(n>0 && m>0)

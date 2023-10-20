@@ -1,3 +1,4 @@
+package Placement-Prep.Mathematics;
 public class Solution {
 	public static boolean isPrime(int num) {
 		if(num==1)

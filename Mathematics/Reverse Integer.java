@@ -1,3 +1,4 @@
+package Placement-Prep.Mathematics;
 class Solution {
     public int reverse(int x) {
         if(x==Integer.MIN_VALUE)

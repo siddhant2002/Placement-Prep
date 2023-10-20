@@ -1,3 +1,4 @@
+package Placement-Prep.Mathematics;
 class Solution {
     public boolean isPalindrome(int x) {
         int rev=0,dup,d;

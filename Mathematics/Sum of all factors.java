@@ -1,3 +1,4 @@
+package Placement-Prep.Mathematics;
 public class Solution {
     public static int sumOfAllDivisors(int n){
         int sum=0;

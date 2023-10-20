@@ -1,3 +1,4 @@
+package Placement-Prep.Mathematics;
 public class Solution {
     public static int countDigits(int n){
         int count=0,dup=n;
