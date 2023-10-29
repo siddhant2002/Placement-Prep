@@ -31,8 +31,12 @@ package LinkedList;
 
 public class Solution {
     public static Node deleteLast(Node list){
+        if(list.next==null)
+        {
+            return null;
+        }
         Node ptr=list;
-        for(ptr=list;ptr.next.next!=null;ptr=ptr.next);
+        for(ptr=list;ptr.next.next!=null && ptr.next!=null;ptr=ptr.next);
         ptr.next=null;
         return list;
     }
