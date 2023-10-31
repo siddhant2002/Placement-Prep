@@ -1,5 +1,5 @@
 package Stack and Queues;
-
+import java.util.*;
 class MyStack {
     Queue<Integer> nm=new LinkedList<>();
     public MyStack() {
