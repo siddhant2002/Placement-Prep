@@ -14,6 +14,7 @@ class Solution {
         }
         return nm;
     }
+    
     public void task(ArrayList<ArrayList<Integer>> adj, ArrayList<Integer> nm, boolean k[], int ind)
     {
         k[ind]=true;
