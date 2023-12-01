@@ -1,6 +1,5 @@
 package LinkedList;
 
-
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
         int count=0;
