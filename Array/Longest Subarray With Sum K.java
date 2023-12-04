@@ -1,5 +1,6 @@
 package Array;
 
+
 public class Solution {
     public static int longestSubarrayWithSumK(int []a, long k) {
         int ind=0;
