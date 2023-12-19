@@ -1,5 +1,4 @@
 package Stack and Queues;
-
 public class Solution {
     class Queue {
         int front, rear;

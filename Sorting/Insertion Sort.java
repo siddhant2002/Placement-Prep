@@ -1,5 +1,4 @@
 package Sorting;
-
 class Solution
 {
   static void insert(int arr[],int i)
